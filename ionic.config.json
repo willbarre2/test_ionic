@@ -1,0 +1,7 @@
+{
+  "name": "myIoncTestApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
